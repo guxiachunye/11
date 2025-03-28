@@ -27,7 +27,7 @@ char compare2(char a[], char b[]) {
 
 int main() {
     char m[1000], n[1000];  
-   henduowei
+  int i;
 
     char result = compare(m,n);
     if(result == 'H') {
